@@ -1,0 +1,9 @@
+{
+  "name": "Webix",
+  "version": "0.0.1-alpha",
+  "description": "🐧 An Unix-like enviroment for the web 🐧",
+  "main": "src/typescript/index.ts",
+  "repository": "https://github.com/StumbDev/Webix.git",
+  "author": "StumbDev <stumbledeveloper@hotmail.com>",
+  "license": "MIT"
+}
